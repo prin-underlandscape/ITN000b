@@ -25,7 +25,9 @@ Test con POI con tutti i tag, un sito, un percorso, una risorsa ed un QRtag
 ## POI: Monumento ai Caduti
 ****
 ## QRtag: Chiesa dei SS. Donato e Andrea
-[<img src='qrtags/lwtyx6.png' width='150'/>](qrtags/lwtyx6.png) **QR tag della chiesa dei SS Donato e Andrea**
+[<img src='qrtags/lwtyx6.png' width='150'/>](qrtags/lwtyx6.png) *Nessuna immagine* 
+
+**QR tag della chiesa dei SS Donato e Andrea**
 ## Sito: Metato
 **Complesso architettonico a pianta rettangolare in muratura alla moderna, a due piani, con accesso in quota per carico delle castagne e tettoia laterale**
 ## Risorsa: Riparo della Gabellaccia
