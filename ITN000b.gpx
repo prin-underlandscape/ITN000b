@@ -58,7 +58,7 @@
   <wpt lat="44.039756" lon="10.661716">
     <ele>500</ele>
     <name>Chiesa dei SS. Donato e Andrea</name>
-    <desc></desc>
+    <desc>QR tag della chiesa dei SS Donato e Andrea</desc>
   </wpt>
   <wpt lat="44.039787" lon="10.663133">
     <ele>500</ele>
@@ -68,7 +68,7 @@
   <wpt lat="44.123781" lon="10.096413">
     <ele>500</ele>
     <name>Riparo della Gabellaccia</name>
-    <desc>Grande riparo sotto roccia lungo il sentiero per Castelpoggio, con molta roccia affiorante nella porzione centrale </desc>
+    <desc>Grande riparo sotto roccia lungo il sentiero per Castelpoggio, con molta roccia affiorante nella porzione centrale</desc>
   </wpt>
   <trk>
     <name>Prova</name>
