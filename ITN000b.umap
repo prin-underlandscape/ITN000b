@@ -1091,10 +1091,10 @@
             "Altri elementi di localizzazione": "a nord-ovest del lago di Casoli",
             "Tipologia sito": "insediamento produttivo",
             "Descrizione": "Complesso architettonico a pianta rettangolare in muratura alla moderna, a due piani, con accesso in quota per carico delle castagne e tettoia laterale",
-            "Cronologia iniziale": "Età contemporanea",
-            "Cronologia finale": "Età sub-attuale",
-            "Reperti geologici": "No",
-            "Reperti organici": "No",
+            "Cronologia iniziale": "Età contemporanea (1789-2000 d.C.)",
+            "Cronologia finale": "Età subattuale (2000-oggi)",
+            "Reperti geologici": "NO",
+            "Reperti organici": "NO",
             "Altri manufatti": "",
             "Accessibilità": "Non accessibile",
             "Copertura rete mobile": "Completa",
@@ -1179,7 +1179,7 @@
         "iconClass": "Ball",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# {Titolo}\n{{{Foto}|300}}\n{Descrizione}\n**Altitudine** (m): {Altitudine}\n##   Repository GitHub: [[{GitHubURL}|link]]\n##   Pagina descrittiva dell'itinerario [[{ULSPLink}|link]]\n##   Pagina descrittiva della risorsa [[{Link}|link]]\n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}"
+        "popupContentTemplate": "# {Titolo}\n{{{Foto}|300}}\n{Descrizione}\n**Altitudine** (m): {Altitudine}\n**Repository GitHub**: [[{GitHubURL}|link]]\n**Pagina descrittiva dell'itinerario**: [[{ULSPLink}|link]]\n**Pagina descrittiva della risorsa** :[[{Link}|link]]\n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}"
       }
     }
   ],
