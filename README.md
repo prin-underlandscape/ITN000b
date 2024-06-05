@@ -4,8 +4,10 @@ Test con POI con tutti i tag, un sito, un percorso, una risorsa ed un QRtag
 ****
 ## POI: Buca delle Streghe
 ****
-## POI: Monte Forato
-****
+## POI: Catena del Monte Vago
+[<img src='/vignettes/9QP4jGFz.jpg' width='250'/>](/vignettes/9QP4jGFz.jpg) 
+
+**Vista panoramica**
 ## POI: Palina dei sentieri CAI
 ****
 ## POI: Stazione ferroviaria

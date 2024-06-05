@@ -60,7 +60,7 @@
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/ITN000b",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           },
           "geometry": {
             "type": "LineString",
@@ -672,7 +672,7 @@
               "iconUrl": "/uploads/pictogram/star.svg"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/ITN000b",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           },
           "geometry": {
             "type": "Point",
@@ -687,9 +687,9 @@
           "type": "Feature",
           "properties": {
             "ulsp_type": "POI",
-            "Titolo": "Monte Forato",
-            "Foto": "",
-            "Descrizione": "",
+            "Titolo": "Catena del Monte Vago",
+            "Foto": "https://i.postimg.cc/9QP4jGFz/montagna-Con-Abeti.png",
+            "Descrizione": "Vista panoramica",
             "Altitudine": "",
             "Autore": "",
             "Strumento": "",
@@ -697,7 +697,7 @@
             "Ora": "",
             "Tag primario": "Attrazione naturalistica",
             "Altri tag": [
-              "Segnaletica"
+              "Trasporti"
             ],
             "_umap_options": {
               "popupTemplate": "Default",
@@ -706,7 +706,7 @@
               "iconUrl": "/uploads/pictogram/mountain.svg"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/ITN000b",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           },
           "geometry": {
             "type": "Point",
@@ -740,7 +740,7 @@
               "iconUrl": "/uploads/pictogram/guidepost.svg"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/ITN000b",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           },
           "geometry": {
             "type": "Point",
@@ -775,7 +775,7 @@
               "iconUrl": "/uploads/pictogram/bus.svg"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/ITN000b",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           },
           "geometry": {
             "type": "Point",
@@ -809,7 +809,7 @@
               "iconUrl": "/uploads/pictogram/information.svg"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/ITN000b",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           },
           "geometry": {
             "type": "Point",
@@ -843,7 +843,7 @@
               "iconUrl": "/uploads/pictogram/government.svg"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/ITN000b",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           },
           "geometry": {
             "type": "Point",
@@ -875,7 +875,7 @@
               "iconUrl": "/uploads/pictogram/restaurant.svg"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/ITN000b",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           },
           "geometry": {
             "type": "Point",
@@ -909,7 +909,7 @@
               "iconUrl": "https://i.postimg.cc/FKBTtN7Q/trekking.png"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/ITN000b",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           },
           "geometry": {
             "type": "Point",
@@ -944,7 +944,7 @@
               "iconUrl": "/uploads/pictogram/hotel.svg"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/ITN000b",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           },
           "geometry": {
             "type": "Point",
@@ -978,7 +978,7 @@
               "iconUrl": "/uploads/pictogram/museum.svg"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/ITN000b",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           },
           "geometry": {
             "type": "Point",
@@ -1012,7 +1012,7 @@
               "iconUrl": "/uploads/pictogram/monument.svg"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/ITN000b",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           },
           "geometry": {
             "type": "Point",
@@ -1052,7 +1052,7 @@
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/ITN000b",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           },
           "geometry": {
             "type": "Point",
@@ -1110,11 +1110,12 @@
             "Definizione": "",
             "Reperti ceramici": "",
             "Sicurezza": "",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto",
+            "Link": "",
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "GitHubURL": "https://github.com/prin-underlandscape/ITN000b"
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000b",
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           },
           "geometry": {
             "type": "Point",
@@ -1155,7 +1156,7 @@
             "Descrizione": "Grande riparo sotto roccia lungo il sentiero per Castelpoggio, con molta roccia affiorante nella porzione centrale",
             "Altitudine": 856,
             "Foto": "https://i.postimg.cc/NjvyVNtW/info-Point.png",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto",
+            "Link": "https://www.google.com",
             "Tag primario": "Infopoint",
             "Altri tag": [
               "Accoglienza"
@@ -1163,7 +1164,8 @@
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "GitHubURL": "https://github.com/prin-underlandscape/ITN000b"
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000b",
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           },
           "type": "Feature"
         }
@@ -1184,8 +1186,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      10.1,
-      44.14
+      10.096413,
+      44.123781
     ]
   }
 }
