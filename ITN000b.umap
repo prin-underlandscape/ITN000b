@@ -862,7 +862,7 @@
             "ulsp_type": "POI",
             "Titolo": "Ristorante del buongustaio",
             "Altitudine": "515",
-            "Foto": "",
+            "Foto": "https://i.postimg.cc/CKFRMzz7/ristorante-In-Montagna.png",
             "Strumento": "",
             "Ora": "",
             "Autore": "",
@@ -1179,7 +1179,7 @@
         "iconClass": "Ball",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# {Titolo}\n{{{Foto}|300}} \n##   [[{GitHubURL}|GitHub repository]] \n##   [[{Link}|Web link]] \n{Descrizione} \n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}\n**Altitudine** (m): {Altitudine}"
+        "popupContentTemplate": "# {Titolo}\n{{{Foto}|300}}\n{Descrizione}\n**Altitudine** (m): {Altitudine}\n##   Repository GitHub: [[{GitHubURL}|link]]\n##   Pagina descrittiva dell'itinerario [[{ULSPLink}|link]]\n##   Pagina descrittiva della risorsa [[{Link}|link]]\n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}"
       }
     }
   ],
