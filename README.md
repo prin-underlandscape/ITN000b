@@ -11,7 +11,9 @@ Test con POI con tutti i tag, un sito, un percorso, una risorsa ed un QRtag
 ## POI: Stazione ferroviaria
 ****
 ## POI: Azienda del Turismo
-****
+[<img src='/vignettes/NjvyVNtW.jpg' width='250'/>](/vignettes/NjvyVNtW.jpg) 
+
+**Informazioni turistiche**
 ## POI: Pronto Soccorso
 ****
 ## POI: Ristorante del buongustaio
@@ -31,6 +33,6 @@ Test con POI con tutti i tag, un sito, un percorso, una risorsa ed un QRtag
 ## Sito: Metato
 **Complesso architettonico a pianta rettangolare in muratura alla moderna, a due piani, con accesso in quota per carico delle castagne e tettoia laterale**
 ## Risorsa: Riparo della Gabellaccia
-[<img src='/vignettes/h4yygB44.jpg' width='250'/>](/vignettes/h4yygB44.jpg) 
+[<img src='/vignettes/NjvyVNtW.jpg' width='250'/>](/vignettes/NjvyVNtW.jpg) 
 
 **Grande riparo sotto roccia lungo il sentiero per Castelpoggio, con molta roccia affiorante nella porzione centrale**
